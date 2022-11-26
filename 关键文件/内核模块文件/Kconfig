@@ -1,0 +1,3 @@
+config HELLO_DCY_KERNEL
+	tristate "HELLO HELLO_DCY_KERNEL"
+	default m
